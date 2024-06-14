@@ -1,4 +1,4 @@
-# My Firs and Simple Git Repo
+# My FirsT and Simple Git Repo
 
 First git reop
 Interested in :
